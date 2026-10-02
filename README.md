@@ -2,7 +2,9 @@
 
 # Kevin André Tumbalobos Gamboa
 
-### Mechatronics Engineering · Data Engineering · Cloud · Artificial Intelligence · Distributed Systems
+### Data Engineering · Cloud · Artificial Intelligence · Distributed Systems
+
+**Mechatronics Engineer building data platforms, intelligent systems and cloud-connected products.**
 
 Lima, Peru · [LinkedIn](https://www.linkedin.com/in/tumbalobos/)
 
@@ -10,129 +12,108 @@ Lima, Peru · [LinkedIn](https://www.linkedin.com/in/tumbalobos/)
 
 ---
 
-## About Me
+## Professional Focus
 
-I am a **Mechatronics Engineering graduate from Pontificia Universidad Católica del Perú (PUCP)** currently working as a **Technology Consultant I / Data Engineer at Management Solutions**, where I contribute to a banking-sector data platform built on **Google Cloud Platform**.
+I am a **Mechatronics Engineering graduate from Pontificia Universidad Católica del Perú (PUCP)** working as a **Technology Consultant I / Data Engineer at Management Solutions**.
 
-My professional focus is the intersection of **data engineering, cloud computing, distributed systems, industrial digitalization and applied artificial intelligence**. I enjoy building systems that transform operational data into reliable pipelines, analytics and automated decisions.
+My work sits at the intersection of:
 
-In my current role, I work mainly with **BigQuery, SQL, ETL/ELT processes, data modeling, validation and financial/operational data**. My previous experience in Industry 4.0 included streaming and industrial-data architectures with **ClickHouse, MQTT, Apache NiFi, Kafka, Flink, Docker, Prometheus, Grafana and AWS**, as well as workflow automation and local LLM integration.
+- **Data Engineering** — BigQuery, SQL, ETL/ELT, data modeling, validation and reporting
+- **Cloud & Distributed Systems** — GCP, AWS, Azure, Kafka, Flink, MQTT
+- **Industrial Digitalization** — PLC/HMI data, Industry 4.0, observability and edge/cloud integration
+- **Applied AI** — computer vision, local LLMs, RAG, agent orchestration and automation
+- **Product Engineering** — mobile/web applications, APIs, analytics and operational workflows
 
----
-
-## Professional Experience
-
-### Management Solutions — Technology Consultant I / Data Engineer
-**Sep 2026 — Present**
-
-- Data engineering for a banking-sector data and financial reporting platform.
-- Development and maintenance of data processes on **GCP**, primarily with **BigQuery and SQL**.
-- ETL/ELT implementation, historical/master data processing, business rules, catalogs and reconciliations.
-- Repository, versioning and deployment workflows through **Azure DevOps**.
-
-### Creditex — Industry 4.0 Professional Intern
-**Mar 2026 — Aug 2026**
-
-- Industrial digitalization and digital-twin initiatives using data from PLCs, HMIs and industrial systems.
-- Data acquisition and processing with **ClickHouse, MQTT, Apache NiFi, Kafka and Flink**.
-- Hybrid edge/cloud architectures using **Docker, AWS, Prometheus and Grafana**.
-- Workflow automation with **n8n** and integration of a locally deployed LLM for incident processing and technical reporting.
-
-### Santander Consumer Finance — L2 Technical Support Intern
-**Jul 2025 — Dec 2025**
-
-- L2 support for critical banking applications and the COBIS core banking platform.
-- Monitoring and troubleshooting of services deployed on **Microsoft Azure**.
-- Incident traceability and technical coordination through **ServiceNow**.
+I am especially interested in systems where **data, software and physical operations converge**.
 
 ---
 
-## Technical Stack
+## Experience Snapshot
+
+| Role | Organization | Focus |
+|---|---|---|
+| **Technology Consultant I / Data Engineer** | Management Solutions | Banking data platform · GCP · BigQuery · SQL · ETL/ELT |
+| **Industry 4.0 Professional Intern** | Creditex | Industrial data · ClickHouse · MQTT · NiFi · Kafka · Flink · AWS |
+| **L2 Technical Support Intern** | Santander Consumer Finance | Banking applications · Azure · production incidents · ServiceNow |
+
+---
+
+## Core Stack
 
 | Area | Technologies |
 |---|---|
 | **Data Engineering** | BigQuery · SQL · ClickHouse · Python · ETL/ELT |
 | **Streaming & Integration** | Kafka · Flink · Apache NiFi · MQTT |
 | **Cloud** | Google Cloud Platform · AWS · Microsoft Azure · Huawei Cloud |
-| **DevOps & Automation** | Docker · Azure DevOps · CI/CD · n8n · REST APIs |
-| **Observability** | Prometheus · Grafana · Logs · Metrics |
-| **AI & Analytics** | Machine Learning · Computer Vision · LLM Integration |
+| **AI / Analytics** | Machine Learning · Computer Vision · RAG · LLM Integration |
+| **Backend & APIs** | FastAPI · NestJS · Fastify · REST · WebSockets |
+| **DevOps & Automation** | Docker · Azure DevOps · GitHub Actions · n8n |
+| **Observability** | Prometheus · Grafana · logs · metrics |
 | **Industrial Systems** | Siemens PLC · Mahlo HMI · Portenta X8 |
 | **Languages** | Python · SQL · TypeScript · JavaScript · C++ |
 
 ---
 
-## Featured Projects
+# Selected Engineering Work
+
+## Public Source Projects
 
 ### [Aurora Noctua — AeroGenIoT](https://github.com/KevinT31/AeroGenIoT)
 
 **1st Place — Huawei ICT Competition, National Stage**
 
-Intelligent wind-energy platform combining **IoT, cloud computing, AI, remote monitoring, predictive maintenance and digital-twin concepts**. The system connects edge telemetry with cloud services, backend APIs, web/mobile interfaces and operational analytics.
+Wind-energy monitoring and operational-intelligence platform combining IoT, cloud telemetry, AI, predictive maintenance, web/mobile interfaces and digital-twin concepts.
 
-**Tech:** Huawei Cloud · AWS · IoTDA · TypeScript · NestJS · React · React Native · Python · MySQL
-
----
-
-### [AgroLens — Drones & AI for Agriculture](https://github.com/KevinT31/AgroLens-Showcase)
-
-AgroTech solution for crop-disease detection using **drones, computer vision and artificial intelligence**, including image acquisition, cloud storage and technical validation.
-
-**Achievements:**
-- **2nd Place — Hult Prize PUCP**
-- **2nd Place — MVP Sprint / START Latam**
-
-**Tech:** Drones · Computer Vision · AI · AWS · Image Processing
+**Focus:** Huawei Cloud · AWS · IoT · TypeScript · NestJS · React · React Native · Python
 
 ---
 
 ### [Adaptive Traffic Signal Control](https://github.com/KevinT31/ControladorSemaforicoTFC)
 
-Intelligent transportation project combining **computer vision, congestion estimation, adaptive/fuzzy control, SUMO simulation, backend APIs and web visualization**.
+Intelligent transportation system combining computer vision, congestion estimation, fuzzy/adaptive control, SUMO simulation, backend services and web visualization.
 
-**Tech:** Python · FastAPI · OpenCV · SUMO · Fuzzy Logic · JavaScript
+**Focus:** Python · FastAPI · OpenCV · SUMO · Fuzzy Logic
 
 ---
 
 ### [FleetMine](https://github.com/KevinT31/FleetMine)
 
-Mining fleet monitoring dashboard designed around vehicle telemetry, geospatial visualization, operational alerts, incidents, maintenance workflows and fleet-health indicators.
+Mining fleet operations dashboard for telemetry, geospatial monitoring, alerts, incidents, maintenance and operational KPIs.
 
-**Tech:** React · TypeScript · Vite · Leaflet · Recharts
+**Focus:** React · TypeScript · Leaflet · Recharts
 
 ---
 
 ### [Intelligent Irrigation Controller](https://github.com/KevinT31/ControladorSistemaRiego)
 
-Smart-irrigation prototype integrating **sensor processing, actuator control, machine-learning-assisted decisions, cloud synchronization and model training**.
+IoT/ML irrigation-control system integrating sensor processing, actuator logic, model-assisted decisions and cloud synchronization.
 
-**Tech:** Python · scikit-learn · XGBoost · pandas · NumPy · IoT
+**Focus:** Python · IoT · scikit-learn · XGBoost · Google Cloud
 
 ---
 
-## Selected Private Systems
+## Private-Source Project Showcases
 
-Some of my strongest projects remain private because they contain operational code, infrastructure details or product logic. I publish portfolio-safe case studies instead:
+These projects remain private because they contain personal data, operational logic, infrastructure or product implementation details. Each public repository documents the architecture and engineering scope without exposing the source.
 
-| Project | What it demonstrates |
-|---|---|
-| **[ECORAIZ Platform](https://github.com/KevinT31/ECORAIZ)** | PropTech platform with public web, protected CRM, analytics, Supabase-based services, CI and Vercel deployment |
-| **[AgroLens](https://github.com/KevinT31/AgroLens-Showcase)** | Drones, computer vision, edge/cloud processing, agricultural monitoring and field applications |
-| **[Mina](https://github.com/KevinT31/Mina)** | Local-first AI system with RAG, multi-agent orchestration, memory, automation and controlled tools |
-| **[Goaly](https://github.com/KevinT31/Goaly)** | Personal-finance mobile platform with Expo/React Native, NestJS, PostgreSQL and cloud-ready integrations |
-| **[CarLink](https://github.com/KevinT31/CarLink-Showcase)** | Carpooling + professional networking mobile product with maps, secure storage and mobility workflows |
-| **[CULTIVA+](https://github.com/KevinT31/CULTIVA-Plus)** | Smart-agriculture platform with sensors, edge intelligence, MQTT, ML and mobile/backend services |
-
-Standalone showcase repositories keep the implementation private while making the architecture and engineering scope publicly reviewable.
+| Project | Domain | Engineering focus |
+|---|---|---|
+| **[ECORAIZ](https://github.com/KevinT31/ECORAIZ)** | PropTech | Next.js · CRM · Supabase · RLS · analytics · automation · Vercel |
+| **[AgroLens](https://github.com/KevinT31/AgroLens-Showcase)** | AgroTech | drones · computer vision · edge processing · backend · field apps |
+| **[Mina](https://github.com/KevinT31/Mina)** | AI Systems | local-first AI · RAG · agents · memory · permissions · automation |
+| **[Goaly](https://github.com/KevinT31/Goaly)** | Personal Finance | React Native · NestJS · PostgreSQL · AI-assisted input |
+| **[CarLink](https://github.com/KevinT31/CarLink-Showcase)** | Mobility | React Native · maps · secure mobile state · product UX |
+| **[CULTIVA+](https://github.com/KevinT31/CULTIVA-Plus)** | Smart Agriculture | IoT · edge intelligence · MQTT · ML · mobile/backend |
 
 ---
 
 ## Engineering Highlights
 
-- **1st Place, National Stage — Huawei ICT Competition** with the Aurora Noctua wind-energy solution.
+- **1st Place — Huawei ICT Competition, National Stage** with Aurora Noctua.
 - **2nd Place — Hult Prize PUCP** with AgroLens.
-- **2nd Place — START Latam MVP Sprint / Pitch Competition** with AgroLens.
-- **National finalist — Small Satellite Competition 2024**, contributing to the design and construction of a **1U CubeSat** in a multidisciplinary PUCP–UNMSM team.
+- **2nd Place — START Latam** with AgroLens.
+- **National finalist — Small Satellite Competition 2024**, contributing to a **1U CubeSat** project in a multidisciplinary PUCP–UNMSM team.
+- Built projects spanning **banking data, Industry 4.0, IoT, computer vision, mobility, PropTech, smart agriculture and local-first AI systems**.
 
 ---
 
@@ -144,21 +125,17 @@ Bachelor in Mechatronics Engineering · 2025
 **Automation & Industry 4.0 Concentration — PUCP**  
 2026
 
-My academic background combines programming, data analysis, IoT, embedded systems, industrial automation, control systems and systems integration.
-
 ---
 
-## Current Focus
+## Current Direction
 
-I am currently deepening my experience in:
+I am continuing to deepen my work in:
 
 `Data Engineering` · `Cloud Architecture` · `Distributed Data Processing` · `Artificial Intelligence` · `Large-Scale Data Systems`
 
-I am particularly interested in engineering problems where **data, software and physical systems converge** — from banking and industrial operations to energy, mobility, mining and IoT.
+<div align="center">
 
 ---
-
-<div align="center">
 
 ### Data Engineering · Cloud · AI · Industry 4.0
 
