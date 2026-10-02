@@ -74,7 +74,7 @@ Intelligent wind-energy platform combining **IoT, cloud computing, AI, remote mo
 
 ---
 
-### [AgroLens — Drones & AI for Agriculture](./projects/agrolens/)
+### [AgroLens — Drones & AI for Agriculture](https://github.com/KevinT31/AgroLens-Showcase)
 
 AgroTech solution for crop-disease detection using **drones, computer vision and artificial intelligence**, including image acquisition, cloud storage and technical validation.
 
@@ -116,14 +116,14 @@ Some of my strongest projects remain private because they contain operational co
 
 | Project | What it demonstrates |
 |---|---|
-| **[ECORAIZ Platform](./projects/ecoraiz/)** | PropTech platform with public web, protected CRM, analytics, Supabase-based services, CI and Vercel deployment |
-| **[AgroLens](./projects/agrolens/)** | Drones, computer vision, edge/cloud processing, agricultural monitoring and field applications |
-| **[Mina](./projects/mina/)** | Local-first AI system with RAG, multi-agent orchestration, memory, automation and controlled tools |
-| **[Goaly](./projects/goaly/)** | Personal-finance mobile platform with Expo/React Native, NestJS, PostgreSQL and cloud-ready integrations |
-| **[CarLink](./projects/carlink/)** | Carpooling + professional networking mobile product with maps, secure storage and mobility workflows |
-| **[CULTIVA+](./projects/cultiva-plus/)** | Smart-agriculture platform with sensors, edge intelligence, MQTT, ML and mobile/backend services |
+| **[ECORAIZ Platform](https://github.com/KevinT31/ECORAIZ)** | PropTech platform with public web, protected CRM, analytics, Supabase-based services, CI and Vercel deployment |
+| **[AgroLens](https://github.com/KevinT31/AgroLens-Showcase)** | Drones, computer vision, edge/cloud processing, agricultural monitoring and field applications |
+| **[Mina](https://github.com/KevinT31/Mina)** | Local-first AI system with RAG, multi-agent orchestration, memory, automation and controlled tools |
+| **[Goaly](https://github.com/KevinT31/Goaly)** | Personal-finance mobile platform with Expo/React Native, NestJS, PostgreSQL and cloud-ready integrations |
+| **[CarLink](https://github.com/KevinT31/CarLink-Showcase)** | Carpooling + professional networking mobile product with maps, secure storage and mobility workflows |
+| **[CULTIVA+](https://github.com/KevinT31/CULTIVA-Plus)** | Smart-agriculture platform with sensors, edge intelligence, MQTT, ML and mobile/backend services |
 
-[View the complete private-project gallery →](./projects/)
+Standalone showcase repositories keep the implementation private while making the architecture and engineering scope publicly reviewable.
 
 ---
 
