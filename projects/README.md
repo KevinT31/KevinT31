@@ -1,16 +1,14 @@
-# Selected Private Projects
+# Public Showcase Repositories
 
-This section documents selected engineering projects whose source repositories remain private.
+The temporary in-profile case studies have been promoted to standalone public repositories.
 
-The goal is to make the work visible without publishing proprietary code, credentials, internal data or sensitive implementation details.
+| Project | Showcase |
+|---|---|
+| ECORAIZ | https://github.com/KevinT31/ECORAIZ |
+| AgroLens | https://github.com/KevinT31/AgroLens-Showcase |
+| Mina | https://github.com/KevinT31/Mina |
+| Goaly | https://github.com/KevinT31/Goaly |
+| CarLink | https://github.com/KevinT31/CarLink-Showcase |
+| CULTIVA+ | https://github.com/KevinT31/CULTIVA-Plus |
 
-| Project | Focus | Public Case Study |
-|---|---|---|
-| **ECORAIZ Platform** | PropTech · CRM · Analytics · Web Platform | [View](./ecoraiz/) |
-| **AgroLens** | Drones · Computer Vision · Agriculture · Edge/Cloud | [View](./agrolens/) |
-| **Mina** | Local-first AI · RAG · Agents · Automation | [View](./mina/) |
-| **Goaly** | Personal Finance · Mobile · Backend · Cloud | [View](./goaly/) |
-| **CarLink** | Mobility · Carpooling · Professional Networking | [View](./carlink/) |
-| **CULTIVA+** | IoT · Smart Irrigation · Edge · Mobile | [View](./cultiva-plus/) |
-
-> Source code for these projects is intentionally private. The pages above describe architecture, product scope and technologies at a portfolio-safe level.
+Each repository documents a private-source project without publishing proprietary implementation details.
