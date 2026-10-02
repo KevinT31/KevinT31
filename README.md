@@ -74,7 +74,7 @@ Intelligent wind-energy platform combining **IoT, cloud computing, AI, remote mo
 
 ---
 
-### AgroLens — Drones & AI for Agriculture
+### [AgroLens — Drones & AI for Agriculture](./projects/agrolens/)
 
 AgroTech solution for crop-disease detection using **drones, computer vision and artificial intelligence**, including image acquisition, cloud storage and technical validation.
 
@@ -107,6 +107,23 @@ Mining fleet monitoring dashboard designed around vehicle telemetry, geospatial 
 Smart-irrigation prototype integrating **sensor processing, actuator control, machine-learning-assisted decisions, cloud synchronization and model training**.
 
 **Tech:** Python · scikit-learn · XGBoost · pandas · NumPy · IoT
+
+---
+
+## Selected Private Systems
+
+Some of my strongest projects remain private because they contain operational code, infrastructure details or product logic. I publish portfolio-safe case studies instead:
+
+| Project | What it demonstrates |
+|---|---|
+| **[ECORAIZ Platform](./projects/ecoraiz/)** | PropTech platform with public web, protected CRM, analytics, Supabase-based services, CI and Vercel deployment |
+| **[AgroLens](./projects/agrolens/)** | Drones, computer vision, edge/cloud processing, agricultural monitoring and field applications |
+| **[Mina](./projects/mina/)** | Local-first AI system with RAG, multi-agent orchestration, memory, automation and controlled tools |
+| **[Goaly](./projects/goaly/)** | Personal-finance mobile platform with Expo/React Native, NestJS, PostgreSQL and cloud-ready integrations |
+| **[CarLink](./projects/carlink/)** | Carpooling + professional networking mobile product with maps, secure storage and mobility workflows |
+| **[CULTIVA+](./projects/cultiva-plus/)** | Smart-agriculture platform with sensors, edge intelligence, MQTT, ML and mobile/backend services |
+
+[View the complete private-project gallery →](./projects/)
 
 ---
 
