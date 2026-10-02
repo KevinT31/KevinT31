@@ -1,96 +1,150 @@
 <div align="center">
 
-# Kevin
+# Kevin André Tumbalobos Gamboa
 
-### Software · Cloud · Data · AI · IoT
+### Mechatronics Engineering · Data Engineering · Cloud · Artificial Intelligence · Distributed Systems
 
-I build applied software systems that connect data, cloud services, intelligent automation and real-world operations.
+Lima, Peru · [LinkedIn](https://www.linkedin.com/in/tumbalobos/)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-My projects focus on turning technical ideas into working systems: dashboards, IoT pipelines, computer-vision workflows, machine-learning-assisted control and operational tools.
+I am a **Mechatronics Engineering graduate from Pontificia Universidad Católica del Perú (PUCP)** currently working as a **Technology Consultant I / Data Engineer at Management Solutions**, where I contribute to a banking-sector data platform built on **Google Cloud Platform**.
 
-I am especially interested in:
+My professional focus is the intersection of **data engineering, cloud computing, distributed systems, industrial digitalization and applied artificial intelligence**. I enjoy building systems that transform operational data into reliable pipelines, analytics and automated decisions.
 
-- Cloud and data engineering
-- Applied AI and machine learning
-- IoT and edge-to-cloud systems
-- Industrial and operational analytics
-- Intelligent automation
-- Software architecture for real-world systems
+In my current role, I work mainly with **BigQuery, SQL, ETL/ELT processes, data modeling, validation and financial/operational data**. My previous experience in Industry 4.0 included streaming and industrial-data architectures with **ClickHouse, MQTT, Apache NiFi, Kafka, Flink, Docker, Prometheus, Grafana and AWS**, as well as workflow automation and local LLM integration.
+
+---
+
+## Professional Experience
+
+### Management Solutions — Technology Consultant I / Data Engineer
+**Sep 2026 — Present**
+
+- Data engineering for a banking-sector data and financial reporting platform.
+- Development and maintenance of data processes on **GCP**, primarily with **BigQuery and SQL**.
+- ETL/ELT implementation, historical/master data processing, business rules, catalogs and reconciliations.
+- Repository, versioning and deployment workflows through **Azure DevOps**.
+
+### Creditex — Industry 4.0 Professional Intern
+**Mar 2026 — Aug 2026**
+
+- Industrial digitalization and digital-twin initiatives using data from PLCs, HMIs and industrial systems.
+- Data acquisition and processing with **ClickHouse, MQTT, Apache NiFi, Kafka and Flink**.
+- Hybrid edge/cloud architectures using **Docker, AWS, Prometheus and Grafana**.
+- Workflow automation with **n8n** and integration of a locally deployed LLM for incident processing and technical reporting.
+
+### Santander Consumer Finance — L2 Technical Support Intern
+**Jul 2025 — Dec 2025**
+
+- L2 support for critical banking applications and the COBIS core banking platform.
+- Monitoring and troubleshooting of services deployed on **Microsoft Azure**.
+- Incident traceability and technical coordination through **ServiceNow**.
+
+---
+
+## Technical Stack
+
+| Area | Technologies |
+|---|---|
+| **Data Engineering** | BigQuery · SQL · ClickHouse · Python · ETL/ELT |
+| **Streaming & Integration** | Kafka · Flink · Apache NiFi · MQTT |
+| **Cloud** | Google Cloud Platform · AWS · Microsoft Azure · Huawei Cloud |
+| **DevOps & Automation** | Docker · Azure DevOps · CI/CD · n8n · REST APIs |
+| **Observability** | Prometheus · Grafana · Logs · Metrics |
+| **AI & Analytics** | Machine Learning · Computer Vision · LLM Integration |
+| **Industrial Systems** | Siemens PLC · Mahlo HMI · Portenta X8 |
+| **Languages** | Python · SQL · TypeScript · JavaScript · C++ |
+
+---
 
 ## Featured Projects
 
 ### [Aurora Noctua — AeroGenIoT](https://github.com/KevinT31/AeroGenIoT)
 
-Wind-turbine monitoring and operational intelligence platform connecting edge telemetry, Huawei Cloud services, backend APIs, a web dashboard and a mobile application.
+**1st Place — Huawei ICT Competition, National Stage**
 
-**Stack:** TypeScript · NestJS · React · React Native / Expo · Python · MySQL · Huawei IoTDA · Huawei RDS · Huawei ECS
+Intelligent wind-energy platform combining **IoT, cloud computing, AI, remote monitoring, predictive maintenance and digital-twin concepts**. The system connects edge telemetry with cloud services, backend APIs, web/mobile interfaces and operational analytics.
+
+**Tech:** Huawei Cloud · AWS · IoTDA · TypeScript · NestJS · React · React Native · Python · MySQL
+
+---
+
+### AgroLens — Drones & AI for Agriculture
+
+AgroTech solution for crop-disease detection using **drones, computer vision and artificial intelligence**, including image acquisition, cloud storage and technical validation.
+
+**Achievements:**
+- **2nd Place — Hult Prize PUCP**
+- **2nd Place — MVP Sprint / START Latam**
+
+**Tech:** Drones · Computer Vision · AI · AWS · Image Processing
 
 ---
 
 ### [Adaptive Traffic Signal Control](https://github.com/KevinT31/ControladorSemaforicoTFC)
 
-Modular intelligent-transportation project combining computer vision, adaptive/fuzzy traffic control, SUMO simulation, backend services and web visualization.
+Intelligent transportation project combining **computer vision, congestion estimation, adaptive/fuzzy control, SUMO simulation, backend APIs and web visualization**.
 
-**Stack:** Python · FastAPI · OpenCV · SUMO · Fuzzy Control · JavaScript
+**Tech:** Python · FastAPI · OpenCV · SUMO · Fuzzy Logic · JavaScript
 
 ---
 
 ### [FleetMine](https://github.com/KevinT31/FleetMine)
 
-Mining fleet monitoring dashboard for vehicle telemetry, geospatial visualization, alerts, incidents, maintenance workflows and fleet-health indicators.
+Mining fleet monitoring dashboard designed around vehicle telemetry, geospatial visualization, operational alerts, incidents, maintenance workflows and fleet-health indicators.
 
-**Stack:** React · TypeScript · Vite · Leaflet · Recharts
+**Tech:** React · TypeScript · Vite · Leaflet · Recharts
 
 ---
 
 ### [Intelligent Irrigation Controller](https://github.com/KevinT31/ControladorSistemaRiego)
 
-Smart-irrigation system integrating sensor processing, actuator control, machine-learning-assisted decisions, cloud synchronization and model-training utilities.
+Smart-irrigation prototype integrating **sensor processing, actuator control, machine-learning-assisted decisions, cloud synchronization and model training**.
 
-**Stack:** Python · scikit-learn · XGBoost · pandas · NumPy · IoT · Google Cloud libraries
+**Tech:** Python · scikit-learn · XGBoost · pandas · NumPy · IoT
 
 ---
 
-## Technical Toolbox
+## Engineering Highlights
 
-**Languages**
+- **1st Place, National Stage — Huawei ICT Competition** with the Aurora Noctua wind-energy solution.
+- **2nd Place — Hult Prize PUCP** with AgroLens.
+- **2nd Place — START Latam MVP Sprint / Pitch Competition** with AgroLens.
+- **National finalist — Small Satellite Competition 2024**, contributing to the design and construction of a **1U CubeSat** in a multidisciplinary PUCP–UNMSM team.
 
-`Python` · `TypeScript` · `JavaScript` · `C++`
+---
 
-**Frontend**
+## Education
 
-`React` · `Vite` · `React Native` · `Expo` · `Leaflet`
+**Pontificia Universidad Católica del Perú (PUCP)**  
+Bachelor in Mechatronics Engineering · 2025
 
-**Backend & APIs**
+**Automation & Industry 4.0 Concentration — PUCP**  
+2026
 
-`FastAPI` · `NestJS` · `Express` · `REST APIs`
+My academic background combines programming, data analysis, IoT, embedded systems, industrial automation, control systems and systems integration.
 
-**Data & AI**
+---
 
-`pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `OpenCV`
+## Current Focus
 
-**Cloud & IoT**
+I am currently deepening my experience in:
 
-`Huawei Cloud` · `IoTDA` · `RDS` · `ECS` · `ESP32` · `Raspberry Pi`
+`Data Engineering` · `Cloud Architecture` · `Distributed Data Processing` · `Artificial Intelligence` · `Large-Scale Data Systems`
 
-**Engineering**
-
-`Git` · `GitHub` · `Docker` · `SUMO` · `Linux`
-
-## Engineering Interests
-
-I enjoy projects where software interacts with physical or operational systems — transportation, energy, mining, automation and IoT — and where data can be turned into useful decisions.
+I am particularly interested in engineering problems where **data, software and physical systems converge** — from banking and industrial operations to energy, mobility, mining and IoT.
 
 ---
 
 <div align="center">
 
-### Explore the repositories above for architecture, setup instructions and implementation details.
+### Data Engineering · Cloud · AI · Industry 4.0
+
+[LinkedIn](https://www.linkedin.com/in/tumbalobos/) · [GitHub](https://github.com/KevinT31)
 
 </div>
